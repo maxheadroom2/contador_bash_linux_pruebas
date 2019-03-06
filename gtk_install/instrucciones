@@ -1,0 +1,12 @@
+para instalar
+
+requisitos antes de:
+
+
+sudo apt-get install build-essential libgtk2.0-dev
+
+
+tar -zxvf gtkdialog-0.8.3.tar.gz
+./configure
+make
+sudo make install
